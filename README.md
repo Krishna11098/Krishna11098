@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/Krishna11098">
-    <img src="https://media.giphy.com/media/USV0yQWf56E6c/giphy.gif" alt="Coding GIF" width="500"/>
+    <img src="https://media.giphy.com/media/Qv0yXh7346gqj9hFp2/giphy.gif" alt="Coding GIF - Typing" width="500"/>
   </a>
   <br><br>
 </div>
 
-<h1 align="center">Hi there! I'm 👋 <a href="https://purvkabaria.netlify.app">Krishna Tahiliani</a></h1>
+<h1 align="center">Hi there! I'm 👋 Krishna Tahiliani</h1>
 <h3 align="center">A passionate Full Stack Developer and Python Programmer currently diving deep into AI.</h3>
 
 ---
@@ -16,9 +16,8 @@
 - 🌱 My main focus right now is **Artificial Intelligence (AI)** and its applications.
 - 💻 As a **Full Stack Developer**, I love building end-to-end applications.
 - 💡 Addicted to **late-night cooooding**—that's when the best ideas happen!
-- 🌐 Explore all my projects and creations on my portfolio: [purvkabaria.netlify.app](https://purvkabaria.netlify.app)
 - 🤝 Let's talk **ReactJS, NextJS, and Firebase**—my favorite tools for web development.
-- 📫 You can reach out to me via email: **purvkabaria@gmail.com**
+- 📄 Know about my experiences: [Resume/Experience]([https://drive.google.com/file/d/1zAwc8G9sbznEumsBaLdsL0qhBfpGZIVg/view?usp=drive_link](https://drive.google.com/file/d/17lmR0if7VneR8VhdGQYtoYh-Wm6nuk-9/view))
 - ☕ **Fun Fact:** I run on coffee and late-night coding sessions!
 
 ---
@@ -69,12 +68,20 @@ A snapshot of the technologies I work with:
 
 ### 🌐 Connect and Code
 
-You can find me on these coding platforms:
+You can find me on these platforms:
 
 <p align="left">
-  <a href="https://www.codechef.com/users/Krishna0803" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/krishnaa_2006" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/KrishnaT01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/Krishna0803" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  
+  <a href="YOUR_LINKEDIN_URL" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" />
+  </a>
+  <a href="mailto:purvkabaria@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30" />
+  </a>
+  
   <a href="https://github.com/Krishna11098" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" width="90" /></a>
 </p>
 
