@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Krishna11098">
-    <img src="[https://media.giphy.com/media/Qv0yXh7346gqj9hFp2/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg1ZHdsa3JneTRtcXQ4OGI0NjlreTR6dnpremd0Y2F2djlrNzFmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)" alt="Coding GIF - Typing" width="500"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg1ZHdsa3JneTRtcXQ4OGI0NjlreTR6dnpremd0Y2F2djlrNzFmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding GIF - Typing" width="500"/>
   </a>
   <br><br>
 </div>
