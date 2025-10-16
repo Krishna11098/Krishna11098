@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Krishna11098">
-    <img src="https://media.giphy.com/media/Qv0yXh7346gqj9hFp2/giphy.gif" alt="Coding GIF - Typing" width="500"/>
+    <img src="[https://media.giphy.com/media/Qv0yXh7346gqj9hFp2/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg1ZHdsa3JneTRtcXQ4OGI0NjlreTR6dnpremd0Y2F2djlrNzFmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)" alt="Coding GIF - Typing" width="500"/>
   </a>
   <br><br>
 </div>
@@ -75,10 +75,10 @@ You can find me on these platforms:
   <a href="https://codeforces.com/profile/KrishnaT01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/Krishna0803" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   
-  <a href="YOUR_LINKEDIN_URL" target="blank">
+  <a href="https://www.linkedin.com/in/krishna-tahiliani-6a7417329/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" />
   </a>
-  <a href="mailto:purvkabaria@gmail.com" target="blank">
+  <a href="mailto:krishna.tahiliani2006@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30" />
   </a>
   
