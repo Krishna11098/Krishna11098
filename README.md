@@ -17,7 +17,7 @@
 - 💻 As a **Full Stack Developer**, I love building end-to-end applications.
 - 💡 Addicted to **late-night cooooding**—that's when the best ideas happen!
 - 🤝 Let's talk **ReactJS, NextJS, and Firebase**—my favorite tools for web development.
-- 📄 Know about my experiences: [Resume/Experience]([https://drive.google.com/file/d/1zAwc8G9sbznEumsBaLdsL0qhBfpGZIVg/view?usp=drive_link](https://drive.google.com/file/d/17lmR0if7VneR8VhdGQYtoYh-Wm6nuk-9/view))
+- 📄 Know about my experiences: (https://drive.google.com/file/d/17lmR0if7VneR8VhdGQYtoYh-Wm6nuk-9/view)
 - ☕ **Fun Fact:** I run on coffee and late-night coding sessions!
 
 ---
