@@ -15,10 +15,32 @@
 - 🏫 I'm currently studying at **Sardar Vallabhbhai National Institute of Technology, Surat**.
 - 🌱 My main focus right now is **Artificial Intelligence (AI)** and its applications.
 - 💻 As a **Full Stack Developer**, I love building end-to-end applications.
-- 💡 Addicted to **late-night cooooding**—that's when the best ideas happen!
-- 🤝 Let's talk **ReactJS, NextJS, and Firebase**—my favorite tools for web development.
+- 🎯 Building projects that bridge **AI research with real-world products**.
+- 🤝 Let's talk **FASTAPI, NextJS, and Firebase**—my favorite tools for web development.
 - 📄 Know about my experiences: (https://drive.google.com/file/d/16XvVbaVi2gGwoDd0vMrmhs6IDeunkO2a/view?usp=drive_link)
 - ☕ **Fun Fact:** I run on coffee and late-night coding sessions!
+
+---
+
+---
+
+### 🏆 Achievements & Highlights
+
+- 🥇 **Winner — Web Wonders 2025**  
+  Organized by **NEXUS, NIT Surat**.
+
+- 🥈 **Runner-Up — Hack The Tank 3.0**  
+  Organized by **GDGC, NIT Surat**.
+
+- 🔥 **Codeforces Pupil** — actively improving problem-solving and competitive programming skills.
+
+- 💡 Passionate about **solving real-world problems** through technology and innovation.
+
+- 🚀 Regular **Hackathon Participant** — love building impactful solutions under pressure.
+
+- 🤖 Exploring **Deep Learning, Computer Vision (OpenCV), and AI-driven applications**.
+
+- 🧠 Strong interest in building scalable full-stack solutions that combine **AI + Web Technologies**.
 
 ---
 
