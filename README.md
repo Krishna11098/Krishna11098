@@ -5,7 +5,7 @@
   <br><br>
 </div>
 
-<h1 align="center">Hi there! I'm 👋 Krishna Tahiliani</h1>
+<h1 align="center">Hi there 👋! I'm Krishna Tahiliani</h1>
 <h3 align="center">A passionate Full Stack Developer and Python Programmer currently diving deep into AI.</h3>
 
 ---
